@@ -478,7 +478,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const originalText = submitBtn.innerHTML;
             
             // Create professional email body
-            const emailBody = `Hello Amitabh,
+            const emailBody = `Hello Aakanksha,
 
 I hope this message finds you well. I'm reaching out regarding potential collaboration opportunities.
 
@@ -495,7 +495,7 @@ Best regards,
 ${name}`;
             
             // Create Gmail compose URL
-            const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=amitabhdevops2024@gmail.com&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(emailBody)}`;
+            const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=aakankshab2509@gmail.com&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(emailBody)}`;
             
             // Show brief loading state
             submitBtn.innerHTML = 'Opening Gmail...';
